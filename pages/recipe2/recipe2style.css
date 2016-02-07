@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Lustria);
+@import url(https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy:400,400italic);
+
+h1{
+  font-family: "Lustria", sans-serif;
+  color: #563300;
+}
+
+body{
+  font-family: "Sorts Mill Goudy", sans-serif;
+  font-size: 1.18em;
+  background-color: #FFDEAE;
+}
+
+h2{
+    font-family: "Lustria", sans-serif;
+    font-size: 1.5em;
+    color: #885F23;
+}
+
+h3{
+    font-family: "Lustria", sans-serif;
+    color: #885F23;
+}
+
+strong{
+  color: #804D00;
+  font-weight: 900;
+}
+
+em{
+  color: #804D00;
+  font-weight: 900;
+}
+
+#bakeinfo{
+  font-weight: 700;
+}
+
+#intro{
+ color: #B16A00;
+}
