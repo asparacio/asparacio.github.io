@@ -1,0 +1,178 @@
+@import url(https://fonts.googleapis.com/css?family=Butcherman&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Candal);
+@import url(https://fonts.googleapis.com/css?family=Great+Vibes);
+@import url(https://fonts.googleapis.com/css?family=Cinzel:400,900);
+@import url(https://fonts.googleapis.com/css?family=Orbitron:400,700);
+@import url(https://fonts.googleapis.com/css?family=Chewy);
+@import url(https://fonts.googleapis.com/css?family=Slackey);
+
+h1{
+font-family: "Butcherman", fantasy;
+  color: #552E00;
+  background-image: url(https://s-media-cache-ak0.pinimg.com/736x/d1/52/49/d15249d2ee0064409145801d2593cff8.jpg);
+}
+
+h2{
+  background-image: url(https://c2.staticflickr.com/8/7091/7156186431_1baca14808_b.jpg);
+}
+
+#heading2{
+  color: #6749EF;
+  font-family: "Candal", fantasy;
+  width: 50%;
+  padding-left: 324px;
+  margin-left: 900px;
+  letter-spacing: 20px;
+  text-decoration: overline;
+}
+
+h3{
+  background-image: url(https://s-media-cache-ak0.pinimg.com/736x/d1/52/49/d15249d2ee0064409145801d2593cff8.jpg);
+}
+
+h4{
+  font-family: "Shadows Into Light", monospace;
+  font-weight: 900;
+  font-size: 4.5em;
+  color: #F534A1;
+  padding-left: 500px;
+  background-image: url(https://s-media-cache-ak0.pinimg.com/736x/d1/52/49/d15249d2ee0064409145801d2593cff8.jpg);
+}
+
+h5{
+  background-image: url(https://s-media-cache-ak0.pinimg.com/736x/d1/52/49/d15249d2ee0064409145801d2593cff8.jpg);
+}
+
+h6{
+  background-image: url(https://s-media-cache-ak0.pinimg.com/736x/d1/52/49/d15249d2ee0064409145801d2593cff8.jpg);
+}
+
+body{
+  background-image: url(https://s-media-cache-ak0.pinimg.com/736x/d1/52/49/d15249d2ee0064409145801d2593cff8.jpg);
+}
+
+#dogpic{
+  padding: 89px;
+  float:right;
+}
+
+em{
+  background-image: url(https://s-media-cache-ak0.pinimg.com/736x/d1/52/49/d15249d2ee0064409145801d2593cff8.jpg);
+}
+
+strong{
+  background-image: url(https://s-media-cache-ak0.pinimg.com/736x/d1/52/49/d15249d2ee0064409145801d2593cff8.jpg);
+}
+
+p{
+  font-family: "Indie Flower", serif;
+  font-weight: 400;
+  color: #FF7400;
+  margin-left: 900px;
+  width:20px;
+}
+
+#div2{
+  width: 74.5%;
+  box-sizing: border-box;
+  overflow: visible;
+  font-family: cursive;
+  color: #A667F2;
+  font-size: 500px;
+  background-image: url(http://static.giantbomb.com/uploads/scale_medium/9/92963/2810693-0853900898-thumb.gif);
+  border: 25px dashed #0AF00A;
+  overflow: visible;
+}
+
+#div3{
+  width: 10.5%;
+  padding-bottom: 200px;
+  margin-right: 100px;
+  box-sizing: border-box;
+  float: right;
+  text-decoration: line-through;
+  color: #2C4100;
+  text-decoration-color: #807500;
+  font-size: 250px;
+  text-indent: 1.25em;
+}
+
+#Walrus{
+  font-family: fantasy;
+  font-weight: 900;
+  float: left;
+  color: #34DBEB;
+  width: 34%;
+  margin-left: 450px;
+  padding-bottom: 650px;
+}
+
+#div4{
+  width: 45%;
+  border-radius: 25px;
+  float: right;
+  font-family: monospace;
+  color:#950070;
+  border-bottom-style: double;
+  border-top-style: inset;
+  border-left-style: dotted;
+  border-width: thick;
+  border-color: #1524AE;
+  padding-bottom: 200px;
+  margin-bottom: 200px;
+}
+
+#foot{
+  width: 65%;
+  box-sizing: border-box;
+  float:right;
+  color: #FC9000;
+  font-family: "Great Vibes",cursive;
+  font-weight: 400px;
+  font-size: 2.5em;
+}
+
+#vorpal{
+  background-image: url(https://www.google.com/search?q=image+white+noise&rlz=1C5CHFA_enUS572US573&biw=1246&bih=682&source=lnms&tbm=isch&sa=X&ved=0ahUKEwi_kr3EhJ3LAhXKHT4KHczbAtMQ_AUIBygC#imgrc=U7Ws_EdVHZ2kgM%3A);
+font-family: "Cinzel", serif;
+font-weight: 900;
+font-style: italic;
+color: #A2E1F6;
+padding-left: 350px;
+border-style: 25px dotted #FB3342;
+}
+
+#messedlist{
+  max-width: 800px;
+  line-height: 25px;
+  color: #6200A9;
+  font-family: "Orbitron",monospace;
+  font-weight: 700;
+}
+
+#Jabberwock{
+  font-family: "Chewy", sans-serif;
+  font-size: 1.75em;
+  color: #FC9200;
+  border: 50px dotted #FF0000;
+}
+
+#walloftext{
+  width: 150px;
+  margin-right: 15px;
+  float: right;
+  border-left: 200px groove #DD9756;
+  font-family:"Slackey", monospace;
+  color: #FFFFFF;
+  font-size: 2.5em;
+}
+
+#confusedtravolta{
+  width: 1400px;
+  float: right;
+  margin-right: 60px;
+  margin-left: 70px;
+  border-right: 70px dashed #817F27;
+}
