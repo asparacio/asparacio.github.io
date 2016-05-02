@@ -1,8 +1,116 @@
+@import url(https://fonts.googleapis.com/css?family=Cabin:400,600,500,700);
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+@import url(https://fonts.googleapis.com/css?family=Khula:400,600);
 
 h1{
 
 }
 
-.exterior-heading{
+.exterior-heading-1{
+  height: 12.0em;
+  width: 48.5%;
+  background-color: #000000;
+}
+
+.interior-heading{
+  height: 12.0em;
+  width: 3.0%;
+  background-color: #707070;
+}
+.exterior-heading-2{
+  height: 12.0em;
+  width: 48.5%;
+  background-color: #000000;
+}
+
+.nav-bar{
+  height: 3.0em;
+  width: 100%;
+  background-color: #2A0995;
+}
+
+#namespace{
+  background-color: #000000;
+}
+#name{
+  padding-top: 15%;
+  font-family: "Cabin", sans-serif;
+  font-size: 450%;
+  color:#FFFFFF;
+  text-align: center;
+}
+
+#name1{
+  padding-top: 8%;
+  font-family: "Cabin", sans-serif;
+  font-size: 350%;
+  color:#FFFFFF;
+  text-align: left;
+}
+
+#byline{
+  text-align: center;
+  padding-top: 2.5%;
+  padding-bottom: 15%;
+  color: #707070;
+  font-family: "Quicksand", monospace;
+  font-size: 200%;
+  font-weight: bold;
+}
+
+#byline1{
+  text-align: left;
+  padding-top: 0%;
+  padding-bottom: 15%;
+  color: #707070;
+  font-family: "Quicksand", monospace;
+  font-size: 125%;
+  font-weight: bold;
+}
+
+.exterior-heading-3{
+  height: 4.2em;
+  width: 48.5%;
+  background-color: #707070;
+}
+
+.interior-heading-2{
+  height: 4.2em;
+  width: 3.0%;
+  background-color: #2A0995;
+}
+
+.exterior-heading-4{
+  height: 4.2em;
+  width: 48.5;
+  background-color: #707070;
+}
+
+.nav-bar{
+
+}
+
+h2{
+  font-size: 1.5em;
+}
+
+a{
+  text-decoration: none;
   color: #FFFFFF;
+}
+
+a:hover{
+  color: #707070;
+  text-decoration: none;
+}
+
+.nav-link{
+  float: left;
+  font-family: "Khula", sans-serif;
+  color: #FFFFFF;
+  text-align: center;
+  vertical-align: middle;
+  position: relative;
+  bottom: 0.50em;
+  text-decoration: none;
 }
