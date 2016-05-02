@@ -34,6 +34,7 @@ h1{
 }
 #name{
   padding-top: 15%;
+  padding-bottom: 0;
   font-family: "Cabin", sans-serif;
   font-size: 450%;
   color:#FFFFFF;
@@ -51,7 +52,7 @@ h1{
 #byline{
   text-align: center;
   padding-top: 2.5%;
-  padding-bottom: 15%;
+  padding-bottom: 0;
   color: #707070;
   font-family: "Quicksand", monospace;
   font-size: 200%;
@@ -66,6 +67,14 @@ h1{
   font-family: "Quicksand", monospace;
   font-size: 125%;
   font-weight: bold;
+}
+
+#entersite{
+  padding-bottom: 17%;
+  font-family: "Khula", sans-serif;
+  font-size: 2.0em;
+  text-align: center;
+  position:static;
 }
 
 .exterior-heading-3{
@@ -113,4 +122,15 @@ a:hover{
   position: relative;
   bottom: 0.50em;
   text-decoration: none;
+}
+
+@include media-breakpoint-up(md){
+  .nav-bar{
+    display: block;
+  }
+}
+
+#pagetitle{
+  font-family: "Quicksand", sans-serif;
+  color: #FFFFFF;
 }
