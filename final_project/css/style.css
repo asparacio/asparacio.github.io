@@ -33,12 +33,17 @@ h1{
 }
 
 
-#namespace{
+/*#namespace{
   background-color: #000000;
-}
+}*/
 
 #backgroundimagespace{
-    height: 28.5em;
+    height: 2.0em;
+}
+
+#bottombar{
+  position: relative;
+  padding-top: 26.5em;
 }
 
 #name{
@@ -64,6 +69,7 @@ h1{
   padding-top: 2.5%;
   padding-bottom: 0;
   color: #707070;
+  background-color: #000000;
   font-family: "Quicksand", monospace;
   font-size: 200%;
   font-weight: bold;
@@ -81,6 +87,7 @@ h1{
 }
 
 #entersite{
+  padding-top: -50%;
   padding-bottom: 22%;
   font-family: "Khula", sans-serif;
   font-size: 2.0em;
@@ -166,6 +173,8 @@ a:hover{
 }
 
 #resumetable{
+  width: 150%;
+  text-align: left;
   font-family:"Hind", sans-serif;
   font-size: 1.5em;
   color: #FFFFFF;
@@ -176,4 +185,8 @@ a:hover{
 
 #resumetables{
   padding-bottom: 3.5%;
+}
+
+td{
+
 }
