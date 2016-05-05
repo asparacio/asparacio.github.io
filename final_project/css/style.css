@@ -224,6 +224,30 @@ a:hover{
   padding-bottom: 2.5%;
 }
 
+#pagesubtitle-cin{
+  font-family: "Play", sans-serif;
+  font-size: 2.0em;
+  color: #FFFFFF;
+  background-color: #000000;
+  padding-top: 2.5%;
+  padding-bottom: 2.5%;
+}
+
+#dividerbar{
+  width: 100%;
+  height: 2.5em;
+  background-color: #707070;
+  align-self: center;
+  position: relative;
+  left: 13.35%;
+}
+
+#youtubeembed{
+  align-items: center;
+  border: 10px solid #2A0995;
+  margin: 2.5%;
+}
+
 #me{
   width:80%;
   padding-top: 50%;
