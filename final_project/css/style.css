@@ -213,7 +213,6 @@ a:hover{
   color: #2A0995;
   background-color: #000000;
   padding-top: 5%;
-  padding-bottom: 2.5%;
 }
 
 #pagesubtitle{
@@ -223,6 +222,7 @@ a:hover{
   background-color: #000000;
   padding-top: 0;
   padding-bottom: 2.5%;
+  padding-top: 4.5%;
 }
 
 #pagesubtitle-cin{
@@ -274,8 +274,10 @@ a:hover{
 
 #resumetable{
   width: 150%;
+  margin-left: 10%;
   text-align: left;
   font-family:"Hind", sans-serif;
+  margin-bottom: 5%;
   font-size: 1.5em;
   color: #FFFFFF;
   background-color: #000000;
@@ -283,8 +285,31 @@ a:hover{
   border-collapse: separate;
 }
 
+#resumetable2{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 1.5%;
+  margin-bottom: 1.5%;
+  text-align: left;
+  font-family:"Hind", sans-serif;
+  font-size: 1.5em;
+  color: #FFFFFF;
+  background-color: #000000;
+  border-color: #000000;
+}
+
 #resumetables{
   padding-bottom: 3.5%;
+}
+
+#resumeimportant{
+  font-family: "Quicksand", serif;
+  font-size: 1.25em;
+  font-weight: 700;
+  padding-bottom: 1.5%;
+  color: #2A0095;
+  text-decoration: underline;
+  text-decoration-color:#707070;
 }
 
 ul{
