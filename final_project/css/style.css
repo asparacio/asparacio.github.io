@@ -405,7 +405,7 @@ h3{
 
 #contactinfo{
   margin-left: 3.5%;
-  width: 65%;
+  width: 75%;
   margin-top: 5%;
   margin-bottom: 9%;
 }
@@ -418,4 +418,13 @@ h3{
   color: #2A0095;
   background-color: #000000;
   margin-left: 5.0%;
+}
+
+/* placeholder link page */
+
+#spinningsquid{
+  width: 30%;
+  position: absolute;
+  margin-left: 38.5%;
+  margin-top: 26.5%;
 }
